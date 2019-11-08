@@ -1,0 +1,11 @@
+C:\Users\root\source\repos\MigratoryBirds\MigratoryBirds\bin\Debug\netcoreapp3.0\MigratoryBirds.exe
+C:\Users\root\source\repos\MigratoryBirds\MigratoryBirds\bin\Debug\netcoreapp3.0\MigratoryBirds.deps.json
+C:\Users\root\source\repos\MigratoryBirds\MigratoryBirds\bin\Debug\netcoreapp3.0\MigratoryBirds.runtimeconfig.json
+C:\Users\root\source\repos\MigratoryBirds\MigratoryBirds\bin\Debug\netcoreapp3.0\MigratoryBirds.runtimeconfig.dev.json
+C:\Users\root\source\repos\MigratoryBirds\MigratoryBirds\bin\Debug\netcoreapp3.0\MigratoryBirds.dll
+C:\Users\root\source\repos\MigratoryBirds\MigratoryBirds\bin\Debug\netcoreapp3.0\MigratoryBirds.pdb
+C:\Users\root\source\repos\MigratoryBirds\MigratoryBirds\obj\Debug\netcoreapp3.0\MigratoryBirds.csprojAssemblyReference.cache
+C:\Users\root\source\repos\MigratoryBirds\MigratoryBirds\obj\Debug\netcoreapp3.0\MigratoryBirds.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\MigratoryBirds\MigratoryBirds\obj\Debug\netcoreapp3.0\MigratoryBirds.AssemblyInfo.cs
+C:\Users\root\source\repos\MigratoryBirds\MigratoryBirds\obj\Debug\netcoreapp3.0\MigratoryBirds.dll
+C:\Users\root\source\repos\MigratoryBirds\MigratoryBirds\obj\Debug\netcoreapp3.0\MigratoryBirds.pdb
